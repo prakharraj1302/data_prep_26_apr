@@ -1,0 +1,11 @@
+plotly
+shapely
+geopandas
+pandas
+streamlit_folium
+folium
+Pillow
+streamlit_lottie
+streamlit
+prophet
+requests
